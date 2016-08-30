@@ -12,7 +12,7 @@ with specific external frameworks.
 
 ## Component List
 
-The NUBOMEDIA Controller contains the following components: 
+The NUBOMEDIA Connnectors contains the following components: 
 
  * nubomedia-cdn-connector (v0.1.0)
  * nubomedia-ims-connector (v0.1.0)
