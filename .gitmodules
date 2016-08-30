@@ -1,0 +1,3 @@
+[submodule "nubomedia-cdn-connector"]
+	path = nubomedia-cdn-connector
+	url = https://github.com/nubomedia/nubomedia-cdn-connector.git
