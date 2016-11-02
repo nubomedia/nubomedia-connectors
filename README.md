@@ -1,23 +1,15 @@
-# NUBOMEDIA Connectors
-
-This project is part of NUBOMEDIA project: [nubomedia.eu][NUBOMEDIA]
-
 [![][NUBOMEDIA Logo]][NUBOMEDIA]
 
-Copyright © 2016 [NUBOMEDIA]. Licensed under [LGPL v2.1 License].
+Copyright © 2016 [NUBOMEDIA]
 
-The NUBOMEDIA Connectors (nubomedia-connectors) is an integration of different 
-projects which provide SDKs for the interoperablity of the NUBOMEDIA platform 
-with specific external frameworks.
+NUBOMEDIA Connectors
+====================
 
-## Component List
+This project comprises all projects providing SDKs for the interoperablity of the 
+NUBOMEDIA platform with specific external frameworks.
 
-The NUBOMEDIA Connnectors contains the following components: 
-
- * nubomedia-cdn-connector (v0.1.0)
- * nubomedia-ims-connector (v0.1.0)
-
-# What is NUBOMEDIA
+What is NUBOMEDIA
+-----------------
 
 This project is part of [NUBOMEDIA], which is an open source cloud Platform as a
 Service (PaaS) which makes possible to integrate Real Time Communications (RTC)
@@ -30,37 +22,35 @@ of service deployment, management, and exploitation allowing applications to
 transparently scale and adapt to the required load while preserving QoS
 guarantees.
 
-# Documentation
+Documentation
+-------------
 
 The [NUBOMEDIA] project provides detailed documentation including tutorials,
 installation and [Development Guide].
 
-# Source
+Source
+------
 
 Source code for other NUBOMEDIA projects can be found in the [GitHub NUBOMEDIA
 Group].
 
-
-# News
+News
+----
 
 Follow us on Twitter @[NUBOMEDIA Twitter].
 
-# Issue tracker
+Issue tracker
+-------------
 
 Issues and bug reports should be posted to [GitHub Issues].
 
-# Licensing and distribution
+Licensing and distribution
+--------------------------
 
-Software associated to NUBOMEDIA is provided as open source under GNU Library or
-"Lesser" General Public License, version 2.1 (LGPL-2.1). Please check the
-specific terms and conditions linked to this open source license at
-http://opensource.org/licenses/LGPL-2.1. Please note that software derived as a
-result of modifying the source code of NUBOMEDIA software in order to fix a bug
-or incorporate enhancements is considered a derivative work of the product.
-Software that merely uses or aggregates (i.e. links to) an otherwise unmodified
-version of existing software is not considered a derivative work.
+For licensing and distribution, please refer to each of the children submodules.
 
-# Contribution policy
+Contribution policy
+-------------------
 
 You can contribute to the NUBOMEDIA community through bug-reports, bug-fixes,
 new code or new documentation. For contributing to the NUBOMEDIA community,
@@ -82,11 +72,13 @@ with the following guidelines
   before it being incorporated into the NUBOMEDIA code-base. You must be ready
   to addressing all these kind of concerns before having your code approved.
 
-# Support
+Support
+-------
 
 The NUBOMEDIA community provides support through the [NUBOMEDIA Public Mailing List].
 
 [Development Guide]: http://nubomedia.readthedocs.org/
+[GitHub Issues]: https://github.com/nubomedia/nubomedia-connectors/issues
 [GitHub NUBOMEDIA Group]: https://github.com/nubomedia
 [LGPL v2.1 License]: http://www.gnu.org/licenses/lgpl-2.1.html
 [NUBOMEDIA Logo]: http://www.nubomedia.eu/sites/default/files/nubomedia_logo-small.png
